@@ -37,7 +37,8 @@ Motivated IT undergraduate passionate about **DevOps and Cloud Computing**, dedi
 - DevOps: CI/CD, Docker, Kubernetes, GitHub Actions  
 - Cloud Platforms: AWS & Azure  
 - ML Model Deployment  
-- MERN Stack Development  
+- MERN Stack Development
+- Agile/Scrum, Testing (Manual & Automation)  
 
 ---
 
