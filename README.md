@@ -35,7 +35,7 @@ Motivated IT undergraduate passionate about **DevOps and Cloud Computing**, dedi
 
 ### 🌱 Currently Exploring  
 - DevOps: CI/CD, Docker, Kubernetes, GitHub Actions  
-- Cloud Platforms: AWS & GCP  
+- Cloud Platforms: AWS & Azure  
 - ML Model Deployment  
 - MERN Stack Development  
 
@@ -65,4 +65,3 @@ Motivated IT undergraduate passionate about **DevOps and Cloud Computing**, dedi
 
 ---
 
-⚡ **Fun Fact**: I love automating workflows just so I never have to do them twice 😅
