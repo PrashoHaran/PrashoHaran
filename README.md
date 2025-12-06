@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashoharan </h1>
-<h3 align="center">Passionate about DevOps ⚙️ | Cloud ☁️ | Full-Stack & ML 🚀</h3>
+<h3 align="center">Passionate about DevOps ⚙️ | Cloud ☁️ </h3>
 
 ---
 
